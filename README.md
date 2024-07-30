@@ -1,2 +1,2 @@
-# IBOVESPAanalysis
-Time series forecast using multiple models
+# IBOVESPA Analysis
+Time series forecast using multiple models.
